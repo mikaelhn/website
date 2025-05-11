@@ -5,6 +5,4 @@ Format: html
 
 I'm a conflict scholar who's worked, most recently, as as a postdoctoral fellow with the International Security Program at the Belfer Center for Science & International Affairs, Harvard Kennedy School.
 
-![](images/clipboard-4231030427.jpeg){width="207"}
-
 <https://orcid.org/0000-0001-5923-7502>

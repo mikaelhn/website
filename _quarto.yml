@@ -13,12 +13,14 @@ website:
         text: About
       - href: publications.qmd
         text: Publications
+      - href: ongoing.qmd
+        text: Ongoing Projects
     right:
       - icon: envelope
         href: "mailto:mikaelhnaghizadeh@gmail.com"
       - text: "{{< iconify simple-icons bluesky >}}"
         href: https://bsky.app/profile/mhnagh.bsky.social
-        
+
 format:
   html:
     theme: litera

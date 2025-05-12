@@ -3,8 +3,16 @@ title: "Welcome!"
 Format: html
 ---
 
+::::: {style="display: flex; align-items: flex-start; gap: 2rem;"}
+::: {style="flex: 2;"}
 I'm a political scientist focused on conflict. Currently, my two primary areas of focus relate to the role of institutions in shaping how rebels mobilize, and the role in which remote sensing can play in addressing bias in news-reliant data and documenting forgotten conflicts.
 
-If you're interested in learning more about me, take a look at my publications,
+If you're interested in learning more about my work, take a look at the "Publications" tab. Look under "About" for contact details.
+:::
 
-<https://orcid.org/0000-0001-5923-7502>
+::: {style="flex: 1;"}
+![](files/photo2.jpg){alt="Mikael Hiberg Naghizadeh" style="max- border-radius: 8px;"}
+:::
+:::::
+
+\*
